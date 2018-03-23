@@ -22,6 +22,13 @@ class DiamondFire extends Action {
         'setChatTag',
         'sendActionBar',
         'sendTitle',
-        'setChatColor'
+        'setChatColor',
+        'damage',
+        'givePotionEffect',
+        'removePotionEffect',
+        'clearChat',
+        'removeAllPotionEffects',
+        'teleport',
+        'randomizedTeleport'
     ];
 }
